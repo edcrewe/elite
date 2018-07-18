@@ -10,3 +10,9 @@ def hello():
     with open('templates/runs.json') as fh:
         runs = json.loads(fh.read())
     return template.render(runs=runs)
+
+@app.route("/add")
+def hello():
+    with open('templates/add.html.j2') as tmpl:
+        template = Template(tmpl.read())
+    return template.render()        
