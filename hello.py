@@ -12,7 +12,7 @@ def hello():
     return template.render(runs=runs)
 
 @app.route("/add")
-def hello():
+def add():
     with open('templates/add.html.j2') as tmpl:
         template = Template(tmpl.read())
     return template.render()        
