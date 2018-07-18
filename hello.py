@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    with open('templates/home.j2.py') as tmpl:
+    with open('templates/home.html.j2') as tmpl:
         template = Template(tmpl.read())
     with open('templates/runs.json') as fh:
         runs = json.loads(fh.read())
