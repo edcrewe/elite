@@ -1,4 +1,3 @@
-# elite
 elite
 =====
 
