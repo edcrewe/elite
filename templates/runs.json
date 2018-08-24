@@ -1,16 +1,1 @@
-[
-  {"datetime":"2018-06-22:12:00:00",
-"calories":200,
-"distance":2,
-"speed":10,
-"heartrate":55},
-   {"datetime":"2018-06-23:12:00:00",
-"calories":100,
-"distance":3,
-"speed":10,
-"heartrate":55},
-  {"datetime":"2018-06-21:12:00:00",
-"calories":145,
-"distance":5,
-"speed":4,
-"heartrate":55}]
+[{"datetime": "2018-06-22:12:00:00", "calories": 200, "distance": 2, "speed": 10, "heartrate": 55}, {"datetime": "2018-06-23:12:00:00", "calories": 100, "distance": 3, "speed": 10, "heartrate": 55}, {"datetime": "2018-06-21:12:00:00", "calories": 145, "distance": 5, "speed": 4, "heartrate": 55}, {"datetime": "2018-08-08:12:30", "calories": 200, "distance": 3, "speed": 9, "heartrate": 60}, {"datetime": "2018-08-12:17:00", "calories": 40, "distance": 4, "speed": 8, "heartrate": 56}, {"datetime": "23/08/18:19:0900", "calories": 200, "distance": 4, "speed": 12, "heartrate": 100}, {"datetime": "23/08/18:19:0900", "calories": 200, "distance": 4, "speed": 12, "heartrate": 100}]
